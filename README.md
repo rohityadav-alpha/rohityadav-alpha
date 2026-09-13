@@ -29,13 +29,9 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 
 ### GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohityadav-alpha&theme=dark&hide_border=true" alt="Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rohityadav-alpha&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohityadav-alpha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=rohityadav-alpha&theme=dark)
 
 ---
 
