@@ -27,16 +27,16 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 
 ---
 
-### Contribution Graph
+### Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/rohityadav-alpha" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohityadav-alpha&theme=github-compact&color=39d353&line=39d353&point=7ee787&area=true&area_color=238636&hide_border=true" alt="Contribution Wave Graph" />
 </p>
 
 ### Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.salesp07.site/api/top-langs/?username=rohityadav-alpha&layout=compact&bg_color=0d1117&title_color=39d353&text_color=7ee787&hide_border=true&hide=typescript,c,c%23,c%2B%2B,kotlin" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohityadav-alpha&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
