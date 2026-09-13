@@ -17,18 +17,16 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 - Developing web backends and relational database architectures with Django & MySQL
 - Data manipulation and exploratory analysis with Pandas
 - Building foundations in core Machine Learning algorithms
----
+
 ### Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohityadav-alpha/rohityadav-alpha/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
----
 
 ### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohityadav-alpha&layout=compact&theme=github_dark&hide_border=true&hide=typescript,c,c%23,c%2B%2B,kotlin,powershell" alt="Top Languages" />
 </p>
----
 
 ### Connect
 <p align="left">
