@@ -27,9 +27,7 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 
 ---
 
-### GitHub Activity
-
-## Contribution Graph
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohityadav-alpha/rohityadav-alpha/output/github-contribution-grid-snake-dark.svg">
