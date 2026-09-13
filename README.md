@@ -36,7 +36,7 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 </picture>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/rohityadav-alpha?template=classic&base=&languages=1&languages.limit=6&languages.ignored=typescript,c,c%23,c%2B%2B,kotlin&config.timezone=Asia%2FKolkata" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohityadav-alpha&layout=compact&theme=github_dark&hide_border=true&hide=typescript,c,c%23,c%2B%2B,kotlin" alt="Top Languages" />
 </p>
 
 ---
