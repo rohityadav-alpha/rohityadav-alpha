@@ -30,7 +30,8 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-month?username=rohityadav-alpha&theme=github_dark" alt="Commit per Month" />
+  <img src="https://raw.githubusercontent.com/rohityadav-alpha/rohityadav-alpha/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/rohityadav-alpha/rohityadav-alpha/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 ### Most Used Languages
