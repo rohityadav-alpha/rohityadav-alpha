@@ -30,7 +30,7 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohityadav-alpha&theme=github-compact&color=39d353&line=39d353&point=7ee787&area=true&area_color=238636&hide_border=true" alt="Contribution Wave Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohityadav-alpha&theme=matrix&area=false&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ### Most Used Languages
