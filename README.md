@@ -23,11 +23,13 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
   <img src="https://raw.githubusercontent.com/rohityadav-alpha/rohityadav-alpha/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 ---
+
 ### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohityadav-alpha&layout=compact&theme=github_dark&hide_border=true&hide=typescript,c,c%23,c%2B%2B,kotlin,powershell" alt="Top Languages" />
 </p>
 ---
+
 ### Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-yadav-a7636b36a/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
