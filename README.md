@@ -1,10 +1,6 @@
 <h1 align="center">Rohit Yadav</h1>
 <p align="center">Python & Backend Developer working with Django, MySQL, and Data Analysis.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### Core Stack
