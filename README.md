@@ -36,7 +36,7 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 </picture>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohityadav-alpha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohityadav-alpha&theme=github_dark" alt="Repos per Language" />
 </p>
 
 ---
