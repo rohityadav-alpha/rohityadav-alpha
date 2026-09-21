@@ -40,7 +40,7 @@ Python & Backend Developer working with Django, MySQL, and Data Analysis.
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohityadav-alpha&layout=compact&theme=github_dark&hide_border=true&hide=typescript,c,kotlin,powershell" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohityadav-alpha&layout=compact&theme=github_dark&hide_border=true&hide=typescript,kotlin,powershell" alt="Top Languages" />
 </p>
 
 ---
